@@ -29,8 +29,8 @@ def Main():
     duplicateAllowed = getDuplicateRequest()
     
     #Master List for Storing Pulls
-    itemAvailable = ["Candle","Crucifix","EMF","Weak Flashlight","Ghost Writing Book","Glow Stick","Infrared Light Sensor","Lighter","Motion Sensor","Parabolic Microphone","Photo Camera","Salt","Smudge Sticks","Sound Sensor","Spirit Box","Strong Flashlight","Thermometer","UV Flashlight","Video Camera"]
-    itemAmount = [4,2,2,4,2,2,4,2,4,2,3,2,4,4,4,2,4,3,2,6]
+    itemAvailable = ["Candle","Crucifix","EMF","Weak Flashlight","Ghost Writing Book","Glow Stick","Infrared Light Sensor","Lighter","Motion Sensor","Parabolic Microphone","Photo Camera","Salt","Sanity Pills","Smudge Sticks","Sound Sensor","Spirit Box","Strong Flashlight","Thermometer","UV Flashlight","Video Camera"]
+    itemAmount = [4,2,2,4,2,2,4,2,4,2,4,3,2,4,4,4,2,4,3,2,6]
     tempArray = []
 
     #Helper functions
